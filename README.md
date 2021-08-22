@@ -5,4 +5,4 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=CT0222)
 
-[<img src="https://img.shields.io/badge/twitter-7280DA.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CT0222)
+[<img src="https://img.shields.io/badge/discord-7280DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/h22GUAGmAH)
