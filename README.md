@@ -5,4 +5,4 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=CT0222)
 
-[<img src="https://img.shields.io/badge/discord-7280DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/h22GUAGmAH)
+[<img src="https://img.shields.io/badge/youtube-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/ct02yt)
