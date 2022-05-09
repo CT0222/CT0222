@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/JtqQgyD/20210511-224808.jpg">
 
 ### 📡
-👤 Sou desenvolvedor iniciante de html css js e sei um pouco de python.
+👤 Eu sou eu, programo coisas aleatórias provavelmente inúteis quando não tenho nada pra fazer, basicamente isso.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=CT0222)
 
